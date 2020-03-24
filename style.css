@@ -249,7 +249,7 @@ input {
     margin: 50px 0;
 }
 
-@media(max-width: 768px){
+@media (max-width: 768px) {
     .ticket__wrapper {
         -ms-flex-wrap: wrap; 
         flex-wrap: wrap;
@@ -259,7 +259,7 @@ input {
     }
 }
     
-@media(max-width: 550px){
+@media (max-width: 550px) {
     .right-side {
         -ms-flex-wrap: wrap; 
         flex-wrap: wrap;
